@@ -1,0 +1,22 @@
+@font-face {
+   font-family: 'Venu-Fonts'; 
+   /* src: url('custom-font/vampire-calligraphy.otf'); */
+   src: url('../custom-font/vampire-calligraphy.otf');
+    
+}
+
+body{
+    font-family: 'Venu-Fonts';
+}
+div{
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    box-shadow: 0px 2px 1px;
+    padding: 10px;
+}
+
+.my-own-font{
+    font-family: 'Venu-Fonts';
+    font-size:20px;
+}
